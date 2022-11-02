@@ -8,7 +8,7 @@ My name is Jeremy Kalgreen and I'm a web developer and graphic designer.
 ## &#x2728; On the web
 
 - I built a website called [Amorphia Apparel](https://amorphia-apparel.com/) to sell the t-shirts I've designed, i've sold over a million dollars worth of shirts!
-- I also have a [personal site](https://jeremykalgreen.com.com/) where you can check out what else I've been up to and send me a message.    
+- I also have a [personal site](https://jeremykalgreen.com/) where you can check out what else I've been up to and send me a message.    
 - Feel free to reach out on [Twitter](https://twitter.com/amorphiaapparel), if that's your bag. 
 
 
