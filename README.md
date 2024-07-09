@@ -16,7 +16,6 @@ My name is Jeremy Kalgreen and I'm a web developer and graphic designer.
 Want to see my code? Poke around these public repositories to get a feel for my work
 
 - [Villains Online](https://github.com/amorphia/villains-online) - My covid project! A multiplayer implementation of a board game I designed.
-- [Eat Columbus](https://github.com/amorphia/eat) - A kind of Tinder for finding restaurants in Columbus Ohio.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-laravel%20-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
